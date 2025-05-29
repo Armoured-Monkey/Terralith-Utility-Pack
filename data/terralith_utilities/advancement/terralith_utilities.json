@@ -9,7 +9,7 @@
             }
         ],
         "icon": {
-            "id": "minecraft:bedrock"
+            "id": "minecraft:spruce_sapling"
         },
         "announce_to_chat": false,
         "show_toast": false
